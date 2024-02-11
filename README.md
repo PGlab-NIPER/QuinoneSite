@@ -2,7 +2,7 @@
 
 1. Install java (https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe).
 
-2. Install Openbabel (https://github.com/openbabel/openbabel/releases) and make sure bith java and openbabel are added to the path of system variables.
+2. Install Openbabel (https://github.com/openbabel/openbabel/releases) and make sure both java and openbabel are added to the path of system variables.
 
 3. Download and extract the file 'quinoneSite.rar`.
 
