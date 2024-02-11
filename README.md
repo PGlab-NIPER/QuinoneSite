@@ -1,12 +1,12 @@
 # qsite1
 
-1. Install java runtime environment (jre)
+1. Install java (jre or jdk)
 
-2. Install Openbabel and make sure it is added to the path of system variables.
+2. Install Openbabel (https://github.com/openbabel/openbabel/releases) and make sure it is added to the path of system variables.
 
-3. Download and extract the file in a directory.
+3. Download and extract the file 'quinoneSite.rar`.
 
-4. Open run.bat file (This is a simple batch script to run the program).
+4. Open `run.bat` file (This is a simple batch script to run the program).
 
    or 
 
