@@ -14,4 +14,4 @@
    Then run the following command: 
    `R\App\R-Portable\bin\Rscript.exe runapp.R`
 
-5. Now the quinoneSite tool should open as new window of your default internet browser.
+5. Now the QuinoneSite tool should open as new window of your default internet browser.
